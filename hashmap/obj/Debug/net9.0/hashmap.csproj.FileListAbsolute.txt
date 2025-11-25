@@ -1,0 +1,14 @@
+C:\Users\witor\Documents\GitHub\unoesc\hashmap\bin\Debug\net9.0\hashmap.exe
+C:\Users\witor\Documents\GitHub\unoesc\hashmap\bin\Debug\net9.0\hashmap.deps.json
+C:\Users\witor\Documents\GitHub\unoesc\hashmap\bin\Debug\net9.0\hashmap.runtimeconfig.json
+C:\Users\witor\Documents\GitHub\unoesc\hashmap\bin\Debug\net9.0\hashmap.dll
+C:\Users\witor\Documents\GitHub\unoesc\hashmap\bin\Debug\net9.0\hashmap.pdb
+C:\Users\witor\Documents\GitHub\unoesc\hashmap\obj\Debug\net9.0\hashmap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\witor\Documents\GitHub\unoesc\hashmap\obj\Debug\net9.0\hashmap.AssemblyInfoInputs.cache
+C:\Users\witor\Documents\GitHub\unoesc\hashmap\obj\Debug\net9.0\hashmap.AssemblyInfo.cs
+C:\Users\witor\Documents\GitHub\unoesc\hashmap\obj\Debug\net9.0\hashmap.csproj.CoreCompileInputs.cache
+C:\Users\witor\Documents\GitHub\unoesc\hashmap\obj\Debug\net9.0\hashmap.dll
+C:\Users\witor\Documents\GitHub\unoesc\hashmap\obj\Debug\net9.0\refint\hashmap.dll
+C:\Users\witor\Documents\GitHub\unoesc\hashmap\obj\Debug\net9.0\hashmap.pdb
+C:\Users\witor\Documents\GitHub\unoesc\hashmap\obj\Debug\net9.0\hashmap.genruntimeconfig.cache
+C:\Users\witor\Documents\GitHub\unoesc\hashmap\obj\Debug\net9.0\ref\hashmap.dll
